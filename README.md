@@ -1,6 +1,6 @@
 ### COVID LOCK THE RANSOMWARE
 
-![BLACK HAT AI]()
+![BLACK HAT AI](https://raw.githubusercontent.com/REYHAN6610/Covid-lock-Ransomware_example/refs/heads/main/src/images%20(26).jpeg)
 
 ## Whats is covid lock?
 
@@ -12,6 +12,6 @@ COVID Lock is a prime example of cybercriminals exploiting fear and uncertainty 
 
 # Example
 
-![BLACK HAT AI]()
+![BLACK HAT AI](https://raw.githubusercontent.com/REYHAN6610/Covid-lock-Ransomware_example/refs/heads/main/src/20240920_154055.jpg)
 
 The Password=> QAXOH_GRAY_HAT
