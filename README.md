@@ -1,6 +1,6 @@
 ### COVID LOCK THE RANSOMWARE
 
-img
+![BLACK HAT AI]()
 
 ## Whats is covid lock?
 
@@ -10,6 +10,8 @@ The ransomware used a screen-locking mechanism to prevent access to the device, 
 
 COVID Lock is a prime example of cybercriminals exploiting fear and uncertainty during a crisis, highlighting the importance of downloading apps only from trusted sources like official app stores and maintaining proper cybersecurity hygiene.
 
-#Example
+# Example
 
-img
+![BLACK HAT AI]()
+
+The Password=> QAXOH_GRAY_HAT
